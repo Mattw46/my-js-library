@@ -1,0 +1,4 @@
+/*
+ My personal JS library
+ contains less common but useful functions
+*/

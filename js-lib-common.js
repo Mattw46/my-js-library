@@ -1,0 +1,4 @@
+/*
+ My personal JS library
+ Commonly used functions to be imported to applications
+*/
